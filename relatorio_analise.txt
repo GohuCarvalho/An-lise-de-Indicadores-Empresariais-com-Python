@@ -1,0 +1,16 @@
+RELATÓRIO DE ANÁLISE DE INDICADORES
+
+RESUMO EXECUTIVO
+Lucro médio: 21667
+Meses com prejuízo: 1
+Média de reclamações: 297
+Tempo médio de atendimento: 11.2 minutos
+
+DETALHAMENTO DOS INDICADORES
+      mes  receita  custos  lucro  clientes_ativos  reclamacoes  tempo_medio_atendimento  variacao_clientes    status
+  Janeiro   120000   80000  40000             1500          180                        8                NaN 🟢 Estável
+Fevereiro   115000   90000  25000             1480          220                        9              -20.0 🟡 Atenção
+    Março   100000   95000   5000             1400          350                       12              -80.0 🟡 Atenção
+    Abril    95000   98000  -3000             1350          520                       18              -50.0 🔴 Crítico
+     Maio   110000   85000  25000             1420          310                       11               70.0 🟢 Estável
+    Junho   125000   87000  38000             1500          200                        9               80.0 🟢 Estável
